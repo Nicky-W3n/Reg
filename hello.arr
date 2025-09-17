@@ -33,4 +33,5 @@ wr = rectangle(10, 10, "solid", "white")
 rr = rectangle(10, 10, "solid", "red")
 
 #U.S. Flag part 1
+
 us_flag_1 = place-image-align(six-stars, br)

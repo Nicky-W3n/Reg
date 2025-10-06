@@ -6,8 +6,6 @@ fun add-tax(t :: Table) -> Table:
     lam(price :: Number) -> Number:
       price * 1.1
     end)
-end
-
 where:
   test-table =
     table: price
